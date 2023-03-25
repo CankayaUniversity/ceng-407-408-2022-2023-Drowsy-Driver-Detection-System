@@ -17,6 +17,8 @@
 ***
 [Project Work Plan Ceng-407](https://docs.google.com/spreadsheets/d/1_vlsVRGV4JqH9vNCoYmZSGsQj7c4yKenXmjYqZSSOdw/edit?usp=sharing)
 
+[Project Work Plan Ceng-408](https://www.canva.com/design/DAFcuW4ylyI/EOccXjy6lFFw12AuVIBKZQ/view)
+
 [Literature Review](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/wiki/Literature-Review)
 
 [SRS](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/wiki/Software-Requirements-Specification)
