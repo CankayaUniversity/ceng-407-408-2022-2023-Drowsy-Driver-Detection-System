@@ -1,4 +1,4 @@
-# Drowsy Driver Detection Sstem
+# Drowsy Driver Detection System
 
 
 ### ADVISOR
