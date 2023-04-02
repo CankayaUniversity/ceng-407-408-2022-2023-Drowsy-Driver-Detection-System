@@ -1,7 +1,7 @@
 # Drowsy Driver Detection System
 
 
-### ADVISO
+### ADVISOR
 ***
 [Dr. Serdar Arslan](https://github.com/serdarslan/)
 
