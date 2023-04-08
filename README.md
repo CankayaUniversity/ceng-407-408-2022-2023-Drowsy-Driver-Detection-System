@@ -13,7 +13,7 @@
 
 [Volkan Mazlum](https://github.com/VolkanMazlum) 201811045
 
-### CONTENTS
+### CONTENT
 ***
 [Project Work Plan Ceng-407](https://docs.google.com/spreadsheets/d/1_vlsVRGV4JqH9vNCoYmZSGsQj7c4yKenXmjYqZSSOdw/edit?usp=sharing)
 
