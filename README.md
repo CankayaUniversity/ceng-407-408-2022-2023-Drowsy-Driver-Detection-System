@@ -1,5 +1,45 @@
 # Drowsy Driver Detection System
 
+Welcome to the user manual for the drowsy driver detection system web app!
+
+
+This web app is designed to detect if a driver is becoming drowsy while driving, and alert them to take a break or stop driving if necessary. The app works by using computer vision and machine learning algorithms to analyze the driver's facial expressions and movements to detect signs of drowsiness.
+
+
+Getting Started:
+To use the drowsy driver detection system web app, follow these steps:
+
+
+- Open the web app in your browser.
+- Click on the "Start" button to begin the detection process.
+- Allow access to your camera when prompted.
+- Make sure your face is clearly visible in the camera's view and positioned appropriately.
+- Start driving.
+
+Using the App:
+As you drive, the app will continuously monitor your facial expressions and movements for signs of drowsiness. If the app detects signs of drowsiness, it will trigger an alert to remind you to take a break or stop driving.
+
+
+The alert will be displayed on the screen and will also sound an alarm to get your attention. The app will continue to monitor your facial expressions and movements after the alert to ensure that you are responding appropriately.
+
+
+Stopping the App:
+To stop the drowsy driver detection system web app, simply click on the "Stop" button. The app will stop monitoring your facial expressions and movements.
+
+
+Tips for Best Results:
+To get the best results from the drowsy driver detection system web app, follow these tips:
+
+
+- Ensure that your face is clearly visible in the camera's view and positioned appropriately.
+- Make sure that the lighting in the car is adequate to capture your facial expressions and movements.
+- Keep your head and body upright and facing forward while driving.
+- Take breaks as needed, even if the app has not triggered an alert.
+- Remember that the app is designed to help you stay safe while driving, so be mindful of its alerts and take appropriate action when necessary.
+
+Conclusion:
+Thank you for using the drowsy driver detection system web app. We hope that this user manual has provided you with the information you need to use the app effectively and stay safe while driving. If you have any questions or feedback, please don't hesitate to contact us. Safe driving!
+
 
 ### ADVISOR
 ***
