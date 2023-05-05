@@ -11,8 +11,8 @@ To use the drowsy driver detection system web app, follow these steps:
 
 
 - Open the web app in your browser.
-- Click on the "Start" button to begin the detection process.
-- Allow access to your camera when prompted.
+- Click on the "Login" button to begin the detection process.
+- Allow access to your camera.
 - Make sure your face is clearly visible in the camera's view and positioned appropriately.
 - Start driving.
 
