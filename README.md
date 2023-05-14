@@ -40,6 +40,12 @@ To get the best results from the drowsy driver detection system web app, follow 
 Conclusion:
 Thank you for using the drowsy driver detection system web app. We hope that this user manual has provided you with the information you need to use the app effectively and stay safe while driving. If you have any questions or feedback, please don't hesitate to contact us. Safe driving!
 
+### Installation
+***
+-Main code will be added to this repository. While downloading, you can download all required library via this code part "pip install -r requirements.txt". 
+-You firstly need to download requirements.txt to your local from this directory. 
+-After this process, you can download main code in DrowsyDriverDetectionSystem File and you can open the codes in Visual Studio Enterprise. Push the solution file and debug for working.
+-The link you can download code directly will be added this part.
 
 ### ADVISOR
 ***
