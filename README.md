@@ -42,10 +42,10 @@ Thank you for using the drowsy driver detection system web app. We hope that thi
 
 ### Installation
 ***
--Main code will be added to this repository. While downloading, you can download all required library via this code part "pip install -r requirements.txt". 
--You firstly need to download requirements.txt to your local from this directory. 
--After this process, you can download main code in DrowsyDriverDetectionSystem File and you can open the codes in Visual Studio Enterprise. Push the solution file and debug for working.
--The link you can download code directly will be added this part.
+- Main code will be added to this repository. While downloading, you can download all required library via this code part "pip install -r requirements.txt". 
+- You firstly need to download requirements.txt to your local from this directory. 
+- After this process, you can download main code in DrowsyDriverDetectionSystem File and you can open the codes in Visual Studio Enterprise. Push the solution file and debug for working.
+- The link you can download code directly will be added this part.
 
 ### ADVISOR
 ***
