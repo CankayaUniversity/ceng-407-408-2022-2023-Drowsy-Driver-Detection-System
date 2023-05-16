@@ -53,7 +53,7 @@ Thank you for using the drowsy driver detection system web app. We hope that thi
 - Navigate to the folder where you want to download the code: "cd /path/to/folder"
 - Clone the Git repository: "git clone https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System.git"
 - The Git repository will be downloaded and a folder named ceng-407-408-2022-2023-Drowsy-Driver-Detection-System will be created for all documents and codes. 
-- Once the download is complete, navigate to the folder for reaching codes: "cd DrowsyDriverDetectionSystem"
+- Once the download is complete, navigate to the folder for reaching codes: "cd DrowsyDriverDetectionSystem". When you upload all files and codes, you need to also download best.h for classification. You can find this file in release file.
 - After the download is complete, you can run the project via Visual Studio Enterprise or Code.
 
 ### ADVISOR
