@@ -1,4 +1,4 @@
-# rowsy Driver Detection System
+# Drowsy Driver Detection System
 
 Welcome to the user manual for the drowsy driver detection system web app!
 
