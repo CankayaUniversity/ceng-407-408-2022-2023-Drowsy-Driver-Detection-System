@@ -85,7 +85,7 @@ Thank you for using the drowsy driver detection system web app. We hope that thi
 
 [Project Report](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/wiki/Project-Report)
 
-[Project Test-Plan and Test-Results](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/wiki/Test-Plan) 
+[Project Test-Plan and Test-Results](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/blob/main/Documents/Test_Plan_Document_DrowsyDriverDetection.pdf) 
 
 [Project User's_Manual](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/blob/main/Documents/User_Manual_DrowsyDriverDetectionSystem.pdf) 
 
