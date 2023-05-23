@@ -42,19 +42,45 @@ Thank you for using the drowsy driver detection system web app. We hope that thi
 
 ### Installation
 ***
-- Main code will be added to this repository. While downloading, you can download all required library via this code part "pip install -r requirements.txt". 
+- Main code will be added to this repository. While downloading, you can download all required library via this code part 
+```
+pip install -r requirements.txt
+
+```
 - You firstly need to download requirements.txt to your local from this directory. 
 - After this process, you can download main code in DrowsyDriverDetectionSystem File and you can open the codes in Visual Studio Enterprise. Push the solution file and debug for working.
 - You can reach all documents and codes, also you can find all code in first release file in DrowsyDriverDetection.rar1 without git. Please follow steps are mentioned in below:
 
 - Make sure that Git is installed. If not, you can download and install it from the official website: "https://git-scm.com/downloads"
 - Open a terminal (Linux/Mac) or Git Bash (Windows) application.
-- If you're using Git Bash, switch to the Bash interface:  "git bash"
-- Navigate to the folder where you want to download the code: "cd /path/to/folder"
-- Clone the Git repository: "git clone https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System.git"
+- If you're using Git Bash, switch to the Bash interface:  
+```
+git bash
+
+```
+- Navigate to the folder where you want to download the code: 
+```
+cd /path/to/folder
+```
+- Clone the Git repository: 
+```
+git clone https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System.git
+
+```
 - The Git repository will be downloaded and a folder named ceng-407-408-2022-2023-Drowsy-Driver-Detection-System will be created for all documents and codes. 
-- Once the download is complete, navigate to the folder for reaching codes: "cd DrowsyDriverDetectionSystem". When you upload all files and codes, you need to also download best.h for classification. You can find this file in release file.
-- You can run the project "python views.py".
+- Once the download is complete, navigate to the folder for reaching codes: 
+
+```
+cd DrowsyDriverDetectionSystem". 
+
+```
+- When you upload all files and codes, you need to also download best.h for classification. You can find this file in release file.
+- You can run the project 
+
+```
+python views.py
+
+```
 - Also, you may use this process for running. After the download is complete, you can run the project via Visual Studio Enterprise or Code.
 
 ### ADVISOR
