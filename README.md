@@ -103,11 +103,11 @@ python views.py
 
 [Project Web Page](https://tongalbahu.wixsite.com/drowsinessdetection)
 
-[Project Report](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/wiki/Project-Report)
+[Project Report Ceng-407](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/wiki/Project-Report)
 
 [Project Test-Plan and Test-Results](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/blob/main/Documents/Test_Plan_Document_DrowsyDriverDetection.pdf) 
 
-[Project User's_Manual](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/blob/main/Documents/User_Manual_DrowsyDriverDetectionSystem.pdf) 
+[Project User's Manual](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/blob/main/Documents/User_Manual_DrowsyDriverDetectionSystem.pdf) 
 
 
 
