@@ -1,63 +1,61 @@
 # Drowsy Driver Detection System
 
-Welcome to the user manual for the drowsy driver detection system web app!
+Welcome to the drowsy driver detection system web app's user guide!
 
 
-This web app is designed to detect if a driver is becoming drowsy while driving, and alert them to take a break or stop driving if necessary. The app works by using computer vision and machine learning algorithms to analyze the driver's facial expressions and movements to detect signs of drowsiness.
+This online application is intended to advise drivers to take a break or stop driving if they start to feel sleepy while driving. The program analyzes the driver's facial expressions and motions using computer vision and machine learning algorithms to look for indicators of tiredness.
 
 
-Getting Started:
-To use the drowsy driver detection system web app, follow these steps:
+Starting Off:
+The following are the procedures to utilize the web app for the sleepy driver detection system:
 
 
-- Open the web app in your browser.
-- Click on the "Login" button to begin the detection process.
-- Allow access to your camera.
-- Make sure your face is clearly visible in the camera's view and positioned appropriately.
-- Start driving.
+– Launch the web application in your browser.
+- To start the detecting procedure, click the "Login" button.
+- Permit others to use your camera.
+- Ensure that your face is positioned suitably and is clearly visible in the camera's field of vision.
+- Start your car.
 
-Using the App:
-As you drive, the app will continuously monitor your facial expressions and movements for signs of drowsiness. If the app detects signs of drowsiness, it will trigger an alert to remind you to take a break or stop driving.
-
-
-The alert will be displayed on the screen and will also sound an alarm to get your attention. The app will continue to monitor your facial expressions and movements after the alert to ensure that you are responding appropriately.
+Using the App: 
+As you drive, the app will continually look out for indicators of tiredness in your motions and facial expressions. The app will send you an alert to warn you to stop driving or taking breaks if it notices any symptoms of tiredness.
 
 
-Stopping the App:
-To stop the drowsy driver detection system web app, simply click on the "Stop" button. The app will stop monitoring your facial expressions and movements.
+To grab your attention, the alert will both be visible on the screen and sound an alarm. After the alarm, the app will continue to watch your facial expressions and body language to make sure you are reacting correctly.
 
 
-Tips for Best Results:
-To get the best results from the drowsy driver detection system web app, follow these tips:
+Stopping the App: 
+Simply click the "Stop" button to end the online application for the sleepy driver monitoring system. The app will cease observing your face movements and expressions.
+
+Best Results Advice:
+Follow these recommendations to maximize your use of the web app for the sleepy driver detection system:
 
 
-- Ensure that your face is clearly visible in the camera's view and positioned appropriately.
-- Make sure that the lighting in the car is adequate to capture your facial expressions and movements.
-- Keep your head and body upright and facing forward while driving.
-- Take breaks as needed, even if the app has not triggered an alert.
-- Remember that the app is designed to help you stay safe while driving, so be mindful of its alerts and take appropriate action when necessary.
+- Make sure your face is positioned suitably and can be seen well by the camera.
+- Verify that there is enough light in the car to record your facial expressions and movements.
+- When driving, maintain a straight posture with your head and torso facing front.
+- Even if the app has not sent out a warning, take pauses as necessary.
+- Keep in mind that the app is intended to keep you safe while driving, so pay attention to its notifications and act appropriately as needed.
 
-Conclusion:
-Thank you for using the drowsy driver detection system web app. We hope that this user manual has provided you with the information you need to use the app effectively and stay safe while driving. If you have any questions or feedback, please don't hesitate to contact us. Safe driving!
+Thank you for utilizing the online app for the sleepy driver detection system. We hope that our user guide has given you the knowledge you need to utilize the app efficiently and drive safely. Please get in touch with us if you have any inquiries or comments. Safe travels!
 
 ### Installation
 ***
-- Main code will be added to this repository. While downloading, you can download all required library via this code part 
+- This repository will now include the main code. You may use this code portion to download the entire necessary library during downloading. 
 ```
 pip install -r requirements.txt
 
 ```
-- You firstly need to download requirements.txt to your local from this directory. 
-- After this process, you can download main code in DrowsyDriverDetectionSystem File and you can open the codes in Visual Studio Enterprise. Push the solution file and debug for working.
-- You can reach all documents and codes, also you can find all code in first release file in DrowsyDriverDetection.rar1 without git. Please follow steps are mentioned in below:
+- From this directory, you must first download requirements.txt to your local computer. 
+- Following this procedure, you may access the main code in Visual Studio Enterprise and download it to the DrowsyDriverDetectionSystem File. Push the solution file, then test it for functionality.
+- Without using git, you can get all of the papers and source code. You can also locate all of the code in the initial release file of DrowsyDriverDetection.rar1. Please follow the instructions below:
 
-- Make sure that Git is installed. If not, you can download and install it from the official website: "https://git-scm.com/downloads"
-- Open a terminal (Linux/Mac) or Git Bash (Windows) application.
-- If you're using Git Bash, switch to the Bash interface:  
+- Verify that Git is set up. If not, go to "https://git-scm.com/downloads" on the official website to download and install it.
+- Launch the Git Bash (Windows) or a terminal (Linux/Mac) program.
+- Go to the Bash interface if you're using Git Bash:  
 ```
 git bash
 ```
-- Navigate to the folder where you want to download the code: 
+- Open the location where the code is to be downloaded. 
 ```
 cd /path/to/folder
 ```
@@ -65,13 +63,13 @@ cd /path/to/folder
 ```
 git clone https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System.git
 ```
-- The Git repository will be downloaded and a folder named ceng-407-408-2022-2023-Drowsy-Driver-Detection-System will be created for all documents and codes. 
-- Once the download is complete, navigate to the folder for reaching codes: 
+- The Git repository will be downloaded, and all papers and codes will be stored in a folder called ceng-407-408-2022-2023-Drowsy-Driver-Detection-System. 
+- Go to the folder containing the codes when the download is finished. 
 ```
 cd DrowsyDriverDetectionSystem
 ```
-- When you upload all files and codes, you need to also download best.h for classification. You can find this file in release file.
-- You can run the project 
+- You must also download best.h for categorization when uploading all files and programs. This file is located in the release file.
+- You may carry out the project. 
 ```
 python views.py
 ```
