@@ -10,7 +10,7 @@ Starting Off:
 
 The following are the procedures to utilize the web app for the sleepy driver detection system:
 
-– Launch the web application in your browser.
+- Launch the web application in your browser.
 - To start the detecting procedure, click the "Login" button.
 - Permit others to use your camera.
 - Ensure that your face is positioned suitably and is clearly visible in the camera's field of vision.
