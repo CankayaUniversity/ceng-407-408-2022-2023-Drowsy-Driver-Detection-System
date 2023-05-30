@@ -7,8 +7,8 @@ This online application is intended to advise drivers to take a break or stop dr
 
 
 Starting Off:
-The following are the procedures to utilize the web app for the sleepy driver detection system:
 
+The following are the procedures to utilize the web app for the sleepy driver detection system:
 
 – Launch the web application in your browser.
 - To start the detecting procedure, click the "Login" button.
@@ -17,6 +17,7 @@ The following are the procedures to utilize the web app for the sleepy driver de
 - Start your car.
 
 Using the App: 
+
 As you drive, the app will continually look out for indicators of tiredness in your motions and facial expressions. The app will send you an alert to warn you to stop driving or taking breaks if it notices any symptoms of tiredness.
 
 
@@ -24,9 +25,11 @@ To grab your attention, the alert will both be visible on the screen and sound a
 
 
 Stopping the App: 
+
 Simply click the "Stop" button to end the online application for the sleepy driver monitoring system. The app will cease observing your face movements and expressions.
 
 Best Results Advice:
+
 Follow these recommendations to maximize your use of the web app for the sleepy driver detection system:
 
 
