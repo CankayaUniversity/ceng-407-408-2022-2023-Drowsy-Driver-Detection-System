@@ -112,5 +112,7 @@ python views.py
 
 [Project User's Manual](https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Driver-Detection-System/blob/main/Documents/User_Manual_DrowsyDriverDetectionSystem.pdf) 
 
+[Project Demo Video](https://youtu.be/6BXfPS3N4ak) 
+
 
 
