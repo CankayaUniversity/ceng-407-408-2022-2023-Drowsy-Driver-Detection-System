@@ -116,5 +116,6 @@ python views.py
 
 [Project Poster](https://www.canva.com/design/DAFlRvJFUZY/RKJatn8_uIxVnK0saaTt_w/view?utm_content=DAFlRvJFUZY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
 
+[Project Poster - General Template](https://www.canva.com/design/DAFlK1mMuyQ/fqFtuN6K8XYpSqoH6BBs8g/view?utm_content=DAFlK1mMuyQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 
