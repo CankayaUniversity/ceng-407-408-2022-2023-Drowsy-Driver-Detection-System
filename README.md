@@ -114,5 +114,7 @@ python views.py
 
 [Project Demo Video](https://youtu.be/6BXfPS3N4ak) 
 
+[Project Poster](https://www.canva.com/design/DAFlRvJFUZY/RKJatn8_uIxVnK0saaTt_w/view?utm_content=DAFlRvJFUZY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) 
+
 
 
