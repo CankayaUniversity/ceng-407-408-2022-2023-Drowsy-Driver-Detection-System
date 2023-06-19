@@ -72,7 +72,7 @@ git clone https://github.com/CankayaUniversity/ceng-407-408-2022-2023-Drowsy-Dri
 cd DrowsyDriverDetectionSystem
 ```
 - You must also download best.h for categorization when uploading all files and programs. This file is located in the release file.
-- You may carry out the project. 
+- You may carry out the project. Also, you need to change file directory "save_path" to start the code in StartDetection.py 
 ```
 python views.py
 ```
